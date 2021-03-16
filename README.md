@@ -1,5 +1,10 @@
 #ISIS1225 - Estructura de un proyecto
 
+*Juan Felipe Serrano - j.serrano@uniandes.edu.co - 201921654
+*Cristian Camilo Cortes - cc.cortesm1@uniandes.edu.co - 202011908
+
+
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
